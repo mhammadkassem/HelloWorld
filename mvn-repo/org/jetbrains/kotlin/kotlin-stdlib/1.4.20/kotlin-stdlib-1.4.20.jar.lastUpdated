@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 14:54:26 EEST 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1619006066715
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jetbrains.kotlin\:kotlin-stdlib\:jar\:1.4.20 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\mkassem\\IdeaProjects\\HelloWorld\\mvn-repo\\org\\jetbrains\\kotlin\\kotlin-stdlib\\1.4.20\\kotlin-stdlib-1.4.20.jar.part.lock (Access is denied)
